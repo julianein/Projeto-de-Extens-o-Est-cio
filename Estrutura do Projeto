@@ -1,0 +1,23 @@
+GerenciamentoConsertos/
+│
+├── ui/
+│   ├── MainApp.java
+│   ├── controllers/
+│   │   └── LoginController.java
+│   └── views/
+│       └── LoginView.fxml
+│
+├── service/
+│   └── RepairOrderService.java
+│
+├── controller/
+│   └── RepairOrderController.java
+│
+├── repository/
+│   └── RepairOrderRepository.java
+│
+├── model/
+│   └── RepairOrder.java
+│
+└── database/
+    └── script.sql
